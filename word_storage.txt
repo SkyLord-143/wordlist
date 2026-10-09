@@ -237730,6 +237730,8 @@ mgal
 mganga
 mgangas
 mgqashiyo
+mgbolizhia
+mgbo
 mhm
 mho
 mhometer
@@ -243832,6 +243834,10 @@ mizzy
 mjolnir
 mkates
 mktg
+mkhedruli
+mkeka
+mkekas
+mkate
 mlabri
 mleccha
 mlecchas
@@ -251495,8 +251501,11 @@ muzzlewood
 muzzling
 muzzy
 mvp
+mvps
 mvule
 mvules
+mvskoke
+mvskokes
 mwa
 mwah
 mwalimu
@@ -270139,6 +270148,10 @@ nytril
 nyxis
 nzema
 nzima
+nzakambay
+nzanyi
+nzakara
+nzadi
 o
 o'clock
 o'er
